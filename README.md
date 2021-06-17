@@ -1,8 +1,9 @@
 # Horiseon Marketing Agency
 ​
-A simple webpage that follows accessibility standards
-## Technologies Used
+A simple webpage that follows accessibility standard
 ​
+## Technologies Used
+
 * HTML
 * CSS
 ## Description 
@@ -12,3 +13,15 @@ This webpage is optimized for search engines. The source code contains semantic 
 ## Usage 
 ​
 To navigave the content you can scroll or use navigation menu at the top left of the page.
+
+## Page View
+Page View for a screen resolution of 1680px wide
+
+![alt text](assets/images/PageView.png)
+
+## Link
+Link to deployed application https://irina-golubitsky.github.io/Horiseon/
+
+---
+MIT License
+Copyright (c) [2021] [Irina Golubitsky]
